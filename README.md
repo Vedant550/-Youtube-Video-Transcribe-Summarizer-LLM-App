@@ -9,4 +9,4 @@ The primary goal of this project is to leverage the power of AI to automate the 
 1. Input the YouTube video link you want to transcribe.
 2. Select the subject area (Physics, Chemistry, Mathematics, or Data Science & Statistics).
 3. Click on the "Get Detailed Notes" button.
-4. Watch in amazement as the AI-powered Gemini Pro model generates detailed notes based on the video transcript! 🤯
+4. Watch in amazement as the AI-powered  model generates detailed notes based on the video transcript! 🤯
